@@ -1,6 +1,6 @@
 # Olá a todos, sejam muito bem-vindos!
 
-Meu nome é Daniel, tenho 32 anos e sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas. Nasci em Franca, São Paulo, Brasil. Sempre tive contato com a tecnologia desde muito cedo, graças à curiosidade constante do meu pai.
+Meu nome é Daniel, tenho 34 anos e sou estudante do 6º semestre de Análise e Desenvolvimento de Sistemas. Nasci em Franca, São Paulo, Brasil. Sempre tive contato com a tecnologia desde muito cedo, graças à curiosidade constante do meu pai.
 
 ## Sobre Mim
 
