@@ -4,7 +4,7 @@ Meu nome é Daniel, tenho 34 anos e sou estudante do 6º semestre de Análise e 
 
 ## Sobre Mim
 
-- 🎓 Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas
+- 🎓 Estudante do 6º semestre de Análise e Desenvolvimento de Sistemas
 - 🌱 Apaixonado por tecnologia e aprendizado contínuo
 - 👨‍💻 Explorando novas ferramentas e linguagens de programação
 - 🎮 Entusiasta de games e tecnologias no geral
